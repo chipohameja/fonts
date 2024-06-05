@@ -1,7 +1,7 @@
 [project]
 name = "fonts"
 authors = [
-    { name = "Chipo Hameja", email = "chipohameja@gmail.com"}
+    { name = "Chipo", email = "chipo@mail.com"}
 ]
 description = "Fonts"
 requires-python = ">=3.10"

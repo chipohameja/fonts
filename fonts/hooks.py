@@ -1,8 +1,8 @@
 app_name = "fonts"
 app_title = "Fonts"
-app_publisher = "Chipo Hameja"
+app_publisher = "Chipo"
 app_description = "Fonts"
-app_email = "chipohameja@gmail.com"
+app_email = "chipo@mail.com"
 app_license = "mit"
 # required_apps = []
 
